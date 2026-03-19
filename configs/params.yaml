@@ -1,0 +1,14 @@
+data:
+  path: data/raw/data.csv
+
+model:
+  test_size: 0.2
+  random_state: 42
+  threshold: 0.3
+
+apriori:
+  min_support: 0.02
+  min_lift: 1
+
+clustering:
+  n_clusters: 4
