@@ -82,7 +82,18 @@ Biến mục tiêu:
 5. Modeling & Evaluation  
 
 ---
+## 👥 Nhóm thực hiện
 
+**Nhóm 8 – Công nghệ Thông tin**
+
+- Lớp: CNTT 1710  
+- Chuyên ngành: Phát triển phần mềm  
+
+### Thành viên:
+- Nguyễn Thế Ngọc  
+- Nguyễn Văn Hiệp
+- Phạm Văn Minh
+- Nguyễn Lê Đăng Khánh
 ## 🚀 Cách chạy project
 
 ### 1. Clone repo
@@ -115,15 +126,4 @@ return-predictiom/
 ├── main.py 
 ├── requirements.txt # Thư viện cần thiết
 ├── README.md # Tài liệu mô tả project
-## 👥 Nhóm thực hiện
 
-**Nhóm 8 – Công nghệ Thông tin**
-
-- Lớp: CNTT 1710  
-- Chuyên ngành: Phát triển phần mềm  
-
-### Thành viên:
-- Nguyễn Thế Ngọc  
-- Nguyễn Văn Hiệp
-- Phạm Văn Minh
-- Nguyễn Lê Đăng Khánh
