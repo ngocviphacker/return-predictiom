@@ -90,3 +90,40 @@ Biến mục tiêu:
 ```bash
 git clone https://github.com/ngocviphacker/return-predictiom.git
 cd return-predictiom
+## 📁 Cấu trúc project
+return-predictiom/
+│
+├── configs/ 
+│
+├── data/ 
+│ ├── raw/ 
+│ └── processed/
+│
+├── notebooks/ 
+│
+├── outputs/
+│
+├── scripts/ 
+│
+├── src/
+│ ├── data/ 
+│ ├── features/ 
+│ ├── models/ 
+│ ├── clustering/ 
+│ ├── association/ 
+│
+├── main.py 
+├── requirements.txt # Thư viện cần thiết
+├── README.md # Tài liệu mô tả project
+## 👥 Nhóm thực hiện
+
+**Nhóm 8 – Công nghệ Thông tin**
+
+- Lớp: CNTT 1710  
+- Chuyên ngành: Phát triển phần mềm  
+
+### Thành viên:
+- Nguyễn Thế Ngọc  
+- Nguyễn Văn Hiệp
+- Phạm Văn Minh
+- Nguyễn Lê Đăng Khánh
