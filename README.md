@@ -34,7 +34,7 @@ Biến mục tiêu:
 
 ### 🔹 Missing Values
 
-![Missing Values](outputs/missing_values.png)
+![Missing Values](outputs/image.png)
 
 👉 Nhận xét:
 - CustomerID có nhiều giá trị thiếu  
@@ -44,7 +44,7 @@ Biến mục tiêu:
 
 ### 🔹 Phân bố quốc gia
 
-![Country Distribution](outputs/country_distribution.png)
+![Country Distribution](outputs/image2.png)
 
 👉 Nhận xét:
 - United Kingdom chiếm phần lớn dữ liệu  
@@ -56,7 +56,7 @@ Biến mục tiêu:
 
 ### 🔹 Confusion Matrix
 
-![Confusion Matrix](outputs/confusion_matrix.png)
+![Confusion Matrix](outputs/image3.png)
 
 👉 Nhận xét:
 - Mô hình dự đoán khá chính xác  
@@ -66,7 +66,7 @@ Biến mục tiêu:
 
 ### 🔹 Feature Importance
 
-![Feature Importance](outputs/feature_importance.png)
+![Feature Importance](outputs/image4.png)
 
 👉 Nhận xét:
 - UnitPrice và Quantity là 2 yếu tố quan trọng nhất  
